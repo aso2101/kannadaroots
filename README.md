@@ -1,5 +1,5 @@
 # Kannada Roots 
-The associated csv file ([here][https://docs.google.com/spreadsheets/d/1UFs3DxcffDlKXRoOXiKZNpRqtTY0SvJRQD7FL7BVa3Y/edit?usp=sharing] is a Google spreadsheet, and [here][https://github.com/aso2101/kannadaroots/blob/master/kannadaroots.csv] is the file on Github) is based on the list of verbal roots compiled by the thirteenth-century grammarian Kēśirāja (or Kēśava) in his *Śabdamaṇidarpaṇaṁ*. The edition used is A. Shanker Kedilaya’s, printed in the *Annals of Oriental Research* (Madras) from 1964 to 1977.
+The associated csv file ([here](https://docs.google.com/spreadsheets/d/1UFs3DxcffDlKXRoOXiKZNpRqtTY0SvJRQD7FL7BVa3Y/edit?usp=sharing) is a Google spreadsheet, and [here](https://github.com/aso2101/kannadaroots/blob/master/kannadaroots.csv) is the file on Github) is based on the list of verbal roots compiled by the thirteenth-century grammarian Kēśirāja (or Kēśava) in his *Śabdamaṇidarpaṇaṁ*. The edition used is A. Shanker Kedilaya’s, printed in the *Annals of Oriental Research* (Madras) from 1964 to 1977.
 
 This file uses the ISO-15919 system of transliteration for Kannada.
 
@@ -20,4 +20,4 @@ The spreadsheet has (so far) 7 columns:
 - Morphological data (past and non-past stems, etc.).
 
 ## License
-This is a work-in-progress distributed under the [MIT License][https://opensource.org/licenses/MIT]. Initial OCR, formatting, editing, etc. was done by Andrew Ollett.
+This is a work-in-progress distributed under the [MIT License](https://opensource.org/licenses/MIT). Initial OCR, formatting, editing, etc. was done by Andrew Ollett.

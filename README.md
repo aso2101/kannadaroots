@@ -3,6 +3,11 @@ The associated csv file ([here](https://docs.google.com/spreadsheets/d/1UFs3Dxcf
 
 This file uses the ISO-15919 system of transliteration for Kannada.
 
+## Downloading the CSV from Google Sheets
+```
+curl -o kannadaroots.csv https://docs.google.com/spreadsheets/d/1UFs3DxcffDlKXRoOXiKZNpRqtTY0SvJRQD7FL7BVa3Y/export?format=csv&id=1UFs3DxcffDlKXRoOXiKZNpRqtTY0SvJRQD7FL7BVa3Y&gid=0
+```
+
 ## Document structure
 The spreadsheet has (so far) 7 columns:
 1. **No.**: The serial number assigned by Shanker Kedilaya.
